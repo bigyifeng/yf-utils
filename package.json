@@ -1,0 +1,22 @@
+{
+  "name": "glasssix-tools",
+  "version": "1.0.0",
+  "description": "用于第六镜前端开发，内容为常用代码",
+  "main": "main.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigyifeng/yf-utils.git"
+  },
+  "keywords": [
+    "utils",
+    "glasssix",
+    "yf"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigyifeng/yf-utils/issues"
+  },
+  "homepage": "https://github.com/bigyifeng/yf-utils#readme"
+}
